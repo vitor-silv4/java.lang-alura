@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="br.com.bytebank.banco.especial.ContaEspecial"/>
-    <fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.Conta"/>
-    <fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.ContaCorrente"/>
-    <fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.ContaPoupanca"/>
-    <fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.Cliente"/>
-</qualifiedTypeNameHistroy>
